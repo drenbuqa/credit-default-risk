@@ -2,3 +2,5 @@ data/
 .Rproj.user/
 .DS_Store
 credit-default-risk.Rproj
+.RData
+.Rhistory
